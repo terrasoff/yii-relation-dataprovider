@@ -1,6 +1,6 @@
 <?php
 
-class DataProvider extends CActiveDataProvider
+class RelationDataProvider extends CActiveDataProvider
 {
 
     /** @var bool вместе с отношениями типа MANY_MANY */
